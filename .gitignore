@@ -1,0 +1,6 @@
+# Instalador de terceros (no tiene que ver con el TP)
+*.exe
+# Consigna original y otro informe: contienen nombres de docentes
+TP7_DMZ.pdf
+informe_gns3_julian_act9.docx
+__pycache__/
